@@ -3493,7 +3493,7 @@ PrefabInstance:
     - target: {fileID: 4533620232548706257, guid: 52b85c7b0abb1be43afc87dc62e3a282, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1106546701, guid: 9cbd136e9d7250c4d8dd47960f8ea0a5, type: 3}
+      objectReference: {fileID: -1546658567, guid: 9cbd136e9d7250c4d8dd47960f8ea0a5, type: 3}
     - target: {fileID: 6395753298943762356, guid: 52b85c7b0abb1be43afc87dc62e3a282, type: 3}
       propertyPath: m_Name
       value: PlayerController
